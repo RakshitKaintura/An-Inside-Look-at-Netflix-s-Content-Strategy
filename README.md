@@ -1,2 +1,2 @@
-# An-Inside-Look-at-Netflix-s-Content-Strategy
+# PROJECT 2-> An-Inside-Look-at-Netflix-s-Content-Strategy
 This repository dives into Netflix's vast content library through Exploratory Data Analysis (EDA) on a comprehensive Netflix dataset spanning movies and TV shows from 1990 to 2021. Using Python, Pandas, Matplotlib, and Seaborn, we uncover trends in genres, release patterns, ratings, and production insights to reveal how Netflix shapes viewer preferences.
